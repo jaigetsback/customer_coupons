@@ -1,7 +1,8 @@
 The main code that needs to be executed is prompt.ipynb. This is a jupiter notebook.
 
-The spreadsheet for the python module in juipiter notebook is available in the customer_coupons/data/coupons.csv
+The spreadsheet for the python module in jupiter notebook is available in the 
+customer_coupons/data/coupons.csv
 
-Please fix the followong lines in prompt.ipynb as needed to get read the spreadsheet as needed 
+Please fix the following lines in prompt.ipynb as needed to get read the spreadsheet as needed 
 df = pd.read_csv('/Users/jaikumar/Desktop/customer_coupon/data/coupons.csv') to 
 df = pd.read_csv('data/coupons.csv')
